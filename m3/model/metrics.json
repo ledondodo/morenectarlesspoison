@@ -1,0 +1,9 @@
+{
+  "team_name": "MoreNectarLessPoison",
+  "task_type": "causal_lm",
+  "policy_acc": 0.2604074402125775,
+  "orig_model_size": 1832913408,
+  "quantized_model_size": 510593536,
+  "quantized": true,
+  "quantized_policy_acc": 0.27812223206377323
+}
