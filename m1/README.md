@@ -1,5 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/zxIixFB4)
-# CS-552 - Milestone 1
+# Milestone 1
 
 Welcome to the MNLP project! For M1, as you can read in the [project description](https://docs.google.com/document/d/1SP8SCHPOZZGEhs2ay-38FjedRE1bS9Q99VJb28eHoYk/edit?usp=sharing), you have 3 main goals: 
 1. Collect preference data for 100 questions (individual work)
